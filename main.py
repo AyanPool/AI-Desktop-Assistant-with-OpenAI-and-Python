@@ -91,7 +91,7 @@ def takeCommand():
 
 if __name__ == "__main__":
     print("pycharm")
-    speaker.Speak("hello, i am bhosdeywaala")
+    speaker.Speak("hello, i am your Assistant")
     while True:
         print("Listening...")
         query = takeCommand()
